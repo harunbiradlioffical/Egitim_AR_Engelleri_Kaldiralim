@@ -1,5 +1,5 @@
 # TISAR3D
-# Egitim_AR_Engelleri_Kaldiralim
+# Engelleri_Kaldiralim
  Yazılım Mühendisliği Güncel Konular Projesi
  
  Bu Proje orta okul öğrencileri için eğitim amaçlı tarihi bilim adamlarının karakterlerini ve buluşlarını sesli ve göresel olarak tanıtan mobil uygulmadır.
