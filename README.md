@@ -13,4 +13,5 @@
  6. Arayüzün hazırlanması.
 Bilim adamı olarak Cezeri üzerinde çalışılmıştır.
 Aşağıda resim üzerinden arayüz örnek olarak tasarlanılmıştır.
+![Ekran Görüntüsü (80)](https://user-images.githubusercontent.com/62018772/174064450-919c4550-19e4-4d0e-9378-bdf0a883c1c6.png)
 ![image](https://user-images.githubusercontent.com/62018772/165877331-9c79d1fa-028a-43b7-bdc5-bf1bd6f54ff5.png)
