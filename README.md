@@ -12,7 +12,8 @@
  5. Haritanın hazırlanması.
  6. Arayüzün hazırlanması.
 Bilim adamı olarak Cezeri üzerinde çalışılmıştır.
-V1
+
+V1:
 
 V2: https://drive.google.com/file/d/1AFyUOtIIEbnGzJ_yR4mjroBACFAZe2na/view?usp=sharing
 V2 de uygulama açılırken uygulama aktif olması için kameradan harita gösterilmesi gerekiyor.
