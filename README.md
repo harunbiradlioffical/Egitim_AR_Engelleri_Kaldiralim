@@ -13,7 +13,8 @@
  6. Arayüzün hazırlanması.
 Bilim adamı olarak Cezeri üzerinde çalışılmıştır.
 
-V1:
+V1:https://drive.google.com/file/d/1RXyhk7EWcU86hDXxA_2ay1A8pjnWxSjF/view?usp=sharing
+v1 5 adet islam aliminin görsellerinin gösterilmesiyle 3d karekterler arttırlmış gerçeklik ile canlanıyor.
 
 V2: https://drive.google.com/file/d/1AFyUOtIIEbnGzJ_yR4mjroBACFAZe2na/view?usp=sharing
 V2 de uygulama açılırken uygulama aktif olması için kameradan harita gösterilmesi gerekiyor.
