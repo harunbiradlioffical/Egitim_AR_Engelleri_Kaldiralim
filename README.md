@@ -12,10 +12,13 @@
  5. Haritanın hazırlanması.
  6. Arayüzün hazırlanması.
 Bilim adamı olarak Cezeri üzerinde çalışılmıştır.
-v1
-v2: https://drive.google.com/file/d/1AFyUOtIIEbnGzJ_yR4mjroBACFAZe2na/view?usp=sharing
-v2 de uygulama açılırken uygulama aktif olması için kameradan harita gösterilmesi gerekiyor.
+V1
+
+V2: https://drive.google.com/file/d/1AFyUOtIIEbnGzJ_yR4mjroBACFAZe2na/view?usp=sharing
+V2 de uygulama açılırken uygulama aktif olması için kameradan harita gösterilmesi gerekiyor.
+
 v3
+
 Aşağıda resim üzerinden arayüz örnek olarak tasarlanılmıştır.
 ![Ekran Görüntüsü (81)](https://user-images.githubusercontent.com/62018772/174064706-2c497c46-8350-4ed0-9c89-99ad60196554.png)
 ![image](https://user-images.githubusercontent.com/62018772/165877331-9c79d1fa-028a-43b7-bdc5-bf1bd6f54ff5.png)
