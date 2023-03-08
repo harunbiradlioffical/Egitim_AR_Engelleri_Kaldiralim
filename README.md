@@ -20,6 +20,8 @@ V2: https://drive.google.com/file/d/1AFyUOtIIEbnGzJ_yR4mjroBACFAZe2na/view?usp=s
 V2 de uygulama açılırken uygulama aktif olması için kameradan harita gösterilmesi gerekiyor.
 
 v3
+ANDROID PLAY STORE LINK
+https://play.google.com/store/apps/details?id=com.TriquetraSoftware.TISAR3d
 
 Aşağıda resim üzerinden arayüz örnek olarak tasarlanılmıştır.
 ![Ekran Görüntüsü (81)](https://user-images.githubusercontent.com/62018772/174064706-2c497c46-8350-4ed0-9c89-99ad60196554.png)
